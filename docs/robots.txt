@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://patternexplorer.com/sitemap.xml
